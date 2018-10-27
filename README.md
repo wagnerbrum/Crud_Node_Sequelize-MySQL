@@ -1,0 +1,1 @@
+Usando NodeJs + Sequelize (MySQL) para fazer uma API com um CRUD simples
